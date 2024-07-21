@@ -9,7 +9,7 @@ This repository contains a machine learning project focused on detecting credit 
 - `credit_card_transactions-ibm_v2.csv`: Dataset containing transaction details.
 - `sd254_users.csv`: Dataset with user information.
 - `sd254_cards.csv`: Dataset with credit card details.
-- `fraud_detection.py`: Python script with the main code for data preprocessing, model training, and evaluation.
+- `fraud_detection.ipynb`: Python script with the main code for data preprocessing, model training, and evaluation.
 
 ## Installation
 
